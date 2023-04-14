@@ -40,7 +40,7 @@
                     android:layout_marginTop="20dp"
                     android:fontFamily="@font/roboto_medium"
                     android:gravity="center"
-                    android:text="Riya Jomy Kannampuzha"
+                    android:text="@string/profile_name"
                     android:textColor="@color/white"
                     android:textSize="20sp"
                     android:textStyle="bold" />
@@ -51,7 +51,7 @@
                     android:layout_marginTop="10dp"
                     android:fontFamily="@font/roboto_medium"
                     android:gravity="center"
-                    android:text="rjk100@syr.edu"
+                    android:text="@string/profile_email"
                     android:textColor="@color/white"
                     android:textSize="17sp"
                     android:textStyle="bold" />
@@ -78,7 +78,7 @@
                         android:layout_marginTop="20dp"
                         android:fontFamily="@font/roboto"
                         android:gravity="center"
-                        android:text="Education "
+                        android:text="@string/education"
                         android:textColor="@color/black"
                         android:textSize="20sp"
                         android:textStyle="bold" />
@@ -97,6 +97,7 @@
                         android:layout_marginTop="10dp"
                         android:drawableRight="@drawable/baseline_info_24"
                         android:fontFamily="@font/roboto"
+                        android:background="@drawable/ripple_effect"
                         android:text="@string/masters_education"
                         android:textColor="@color/black"
                         android:textSize="20sp" />
@@ -108,6 +109,7 @@
                         android:layout_marginTop="10dp"
                         android:drawableRight="@drawable/baseline_info_24"
                         android:fontFamily="@font/roboto"
+                        android:background="@drawable/ripple_effect"
                         android:text="@string/undergrad_education"
                         android:textColor="@color/black"
                         android:textSize="20sp" />
@@ -130,7 +132,7 @@
                     android:layout_marginTop="20dp"
                     android:gravity="center"
                     android:fontFamily="@font/roboto"
-                    android:text="Work Experience"
+                    android:text="@string/work_experience"
                     android:textColor="@color/black"
                     android:textSize="20sp"
                     android:textStyle="bold" />
@@ -148,6 +150,7 @@
                     android:id="@+id/harman"
                     android:layout_marginTop="10dp"
                     android:fontFamily="@font/roboto"
+                    android:background="@drawable/ripple_effect"
                     android:text="@string/title_harman"
                     android:textColor="@color/black"
                     android:drawableRight="@drawable/baseline_info_24"
@@ -159,6 +162,7 @@
                     android:id="@+id/gstzen"
                     android:layout_marginTop="10dp"
                     android:text="@string/title_gstzen"
+                    android:background="@drawable/ripple_effect"
                     android:fontFamily="@font/roboto"
                     android:textColor="@color/black"
                     android:drawableRight="@drawable/baseline_info_24"
@@ -171,6 +175,7 @@
                     android:id="@+id/transmute"
                     android:text="@string/title_transmute_learning"
                     android:textColor="@color/black"
+                    android:background="@drawable/ripple_effect"
                     android:drawableRight="@drawable/baseline_info_24"
                     android:fontFamily="@font/roboto"
                     android:textSize="20sp" />
@@ -187,7 +192,7 @@
                 android:background="@drawable/button_background"
                 android:gravity="center"
                 android:padding="10dp"
-                android:text="Go to Interview Demo >>"
+                android:text="@string/go_to_interview_demo"
                 android:layout_marginBottom="10dp"
                 android:textColor="@color/white" />
         </LinearLayout>
