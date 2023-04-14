@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">InterviewDemo</string>
+    <string name="masters_education"> • Master of Science , Computer Engineering, Syracuse University , New York \nAugust 2022 - Present</string>
+    <string name="coursework_masters"> • Coursework in Advanced Data Structures, Computer Architecture and Object Oriented Programming using C++.\n • Collaborating with a team of 4 grad students to create a microservices based schedule builder app for Syracuse
+University utilizing C#, Java , REST APIs and SQL.\n • GPA 3.78. </string>
+    <string name="undergrad_education"> • Bachelor of Technology , Electronics and Communication Engineering , Reva University, Bangalore \nAugust 2016 - April 2020</string>
+    <string name="coursework_undergrad"> • Coursework in Data Structures and Algorithms, C++ Programming, Web Development, Cloud Computing, and Data Mining.\n • GPA : 9.48 </string>
+    <string name="experience_harman">• Collaborated with a team of 25 software engineers in development of mainline project Caruso R2 for French OEM
+Stellantis. Primarily involved in HMI use case implementation, defect fixing and validation.\n • Constructed HybridPSA an Android based application from scratch purely coded in Java and based on MVVM
+model. Worked with various Android libraries and frameworks such as Volley, Glide, and Dagger.\n • Teamed with 5 software developers and test engineers to develop proof of concept called Predictive and
+Personalized Assistant for Intelligent Vehicles.\n • Took initiative to integrate third party APIs and libraries and completed task within 20% of set time.\n • Leveraged Android using Java, REST and XML to construct key features of above mentioned software products.
+Participated in all stages of software development lifecycle, including products build, validation, and release.\n • Created an automated speech recognition test software using python for validating speech test cases. Reduced
+effort on manual testing by 40%</string>
+    <string name="title_harman"> • Associate Software Engineer, HARMAN India – Bangalore</string>
+    <string name="experience_gstzen"> • Partnered with 3 senior software engineers to build product called E-Invoicing On-Premises Connector using Django
+and React, facilitated integration with databases, such as Microsoft SQL Server, Oracle Database, and Microsoft Excel.\n • Performed unit testing for projects after development was completed and increased robustness of software by 25%.\n • Led a team of two to consolidate excel reports for the Excel Connector by leveraging VBA Programming.</string>
+    <string name="title_gstzen"> • Software Developer Intern, GSTZen – Bangalore</string>
+    <string name="title_transmute_learning"> • Software Developer Intern, Transmute Learning – Bangalore</string>
+    <string name="experience_transmute_learning"> • Collaborated in building backbone of Transmute Learnings Business Simulator, a software based on Javascript,
+Php, MySQL, and WordPress.</string>
+</resources>
